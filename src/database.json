@@ -70,6 +70,17 @@
       "badword": 0,
       "afkReason": "",
       "nick": "Rekuh",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6282113332933@s.whatsapp.net": {
+      "serialNumber": "da4209c97283f07ea9898e7b0d918c04",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "M. Iqbal",
       "premium": "false",
       "limit": 100,
       "totalLimit": 0
@@ -235,6 +246,26 @@
       "antilink": false,
       "antipromotion": false,
       "antilinkgc": false
+    },
+    "120363047181683708@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
     }
   },
   "settings": {
@@ -332,7 +363,7 @@
       }
     },
     "6281259156920@s.whatsapp.net": {
-      "totalhit": 37,
+      "totalhit": 48,
       "totalError": 0,
       "online": false,
       "autosticker": false,
