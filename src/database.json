@@ -40,6 +40,39 @@
       "premium": "true",
       "limit": 1000,
       "totalLimit": 0
+    },
+    "6281259156920@s.whatsapp.net": {
+      "serialNumber": "2bb414c8670dee95dd2ce870f9ef8797",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Bot",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "6289503961875@s.whatsapp.net": {
+      "serialNumber": "32c96efcaffd05f92c294d908f4d8bb9",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "page not found",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6283113055195@s.whatsapp.net": {
+      "serialNumber": "88e4351b90d3b5ceb955f37df3d7f801",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Rekuh",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
     }
   },
   "chats": {
@@ -104,6 +137,86 @@
       "antilinkgc": false
     },
     "919402104403@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "6281259156920@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "6289503961875@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "120363202365750493@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antispam": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antipromotion": false,
+      "antilinkgc": false
+    },
+    "120363209202049291@g.us": {
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
@@ -215,6 +328,37 @@
         "owner": {
           "nick": "Xeon Bot User",
           "alias": "916909137213"
+        }
+      }
+    },
+    "6281259156920@s.whatsapp.net": {
+      "totalhit": 37,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autodownload": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "🦄드림 가이 Rafli\n\n+6289503961875"
+      },
+      "about": {
+        "bot": {
+          "nick": "Bot",
+          "alias": "Ega Bot MD"
+        },
+        "owner": {
+          "nick": "Rafli",
+          "alias": "6289503961875"
         }
       }
     }
